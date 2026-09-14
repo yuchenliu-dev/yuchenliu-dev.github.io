@@ -1,4 +1,4 @@
-# yuchenliu.github.io
+# yuchenliu-dev.github.io
 Yuchen's personal website
 
 ## Copyright and Usage
